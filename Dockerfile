@@ -1,4 +1,4 @@
-
+#test change
 FROM gradle:jdk17 AS builder
 
 WORKDIR /app
